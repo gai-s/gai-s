@@ -1,12 +1,14 @@
 ## Hi there I am gai-s 👋
 
     5 years of experience as a Full Stack Engineer in the field of web and mobile development.
-    Experience working with various Software Development Life Cycles (SDLCs) incorporating both traditional and Agile methodologies.
+    Experience working with various Software Development Life Cycles (SDLCs) incorporating both traditional and Agile 
+    methodologies.
     Proficient in developing frontend and backend systems.
     Proficiency with various tools and technologies for debugging and version control.
     Excellent interpersonal abilities, communication skills, time management, and team skills.
     Highly motivated, dependable analytical problem solver and Trouble-shooter with strong attention to detail.
-    Attained better communication and developed stakeholder friendly attitude skills through meetings with stakeholders, System developers, other teams, and external business partners.
+    Attained better communication and developed stakeholder friendly attitude skills through meetings with stakeholders,
+    System developers, other teams, and external business partners.
 
 Core Skills
 
@@ -23,5 +25,3 @@ Core Skills
 - 🔭 I’m currently working on GoTo Global
 - 📫 How to reach me: sgaishab@gmail.com
 - 👯 I’m looking to collaborate on ...
-
--->
