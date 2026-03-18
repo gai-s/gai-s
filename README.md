@@ -3,19 +3,28 @@
 Fullstack Developer with strong skills in JavaScript and React, 
 
 🔹 Experienced in developing interactive applications from scratch also run optimizations and updates
+
 🔹 Experience working with various Software Development Life Cycles, incorporating both traditional and Angile methodologies.
-🔹 Passionate about creating products that deliver real value to users  
+
+🔹 Passionate about creating products that deliver real value to users
+
 🔹 Background in fullstack projects with hands-on experience in real-time features and data handling  
 
 ## ⚡ Core Skills
 
 Languages: HTML, CSS, Javascript/Typescript, Python, SQL, R
+
 Frontend: React, Next, Redux, React Native
+
 UI: MUI, Tailwind CSS, ShadCN UI, Styled Components
+
 Backend: Node, Express, Flask, Firebase
 Databases: MongoDB, MySQL, SQLite, PostgreSQL
+
 Test: Jest, Playwright
+
 Cloud: AWS, GCP, Azure
+
 Tools: Docker, Git, Github, Gitlab, Bitbucket, Netlify, Heroku, Vercel, Microsoft Teams, Slack
 
 ## 💻 Featured Projects
